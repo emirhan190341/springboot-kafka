@@ -188,14 +188,3 @@ networks:
   my-network:
     driver: bridge
 
-```
-
-## 📌 docker-compose.yaml
-
-```yaml
-docker-compose up -d
-```
-
-```yaml
-docker-compose down -v
-```
