@@ -1,5 +1,5 @@
 
-## 📌 Maven Dependencies
+##  Maven Dependencies
 
 ```xml
 
@@ -9,7 +9,7 @@
 </dependency>
 ```
 
-## 📌 Docker Compose
+##  Docker Compose
 
 ```yaml
 
